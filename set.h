@@ -1,7 +1,7 @@
 /***************************************************************
  * File: Set.h
  * Author: Ryan Walker
- * Purpose: Contains the definition of the Set class
+ * Purpose: Contains the definition of the Set class.
  ***************************************************************/
 #ifndef Set_H
 #define Set_H
