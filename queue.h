@@ -1,7 +1,7 @@
 /***************************************************************
  * File: Queue.h
  * Author: Ryan Walker
- * Purpose: Contains the definition of the Queue class
+ * Purpose: Contains the definition of the Queue class.
  ***************************************************************/
 #ifndef Queue_H
 #define Queue_H
