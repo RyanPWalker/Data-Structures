@@ -1,7 +1,7 @@
 /***************************************************************
  * File: Deque.h
  * Author: Ryan Walker
- * Purpose: Contains the definition of the Deque class
+ * Purpose: Contains the definition of the Deque class.
  ***************************************************************/
 #ifndef Deque_H
 #define Deque_H
