@@ -228,5 +228,4 @@ void Stack <T> :: push(const T & add)  throw (const char *)
    }
 }
 
-
 #endif // Stack_H
