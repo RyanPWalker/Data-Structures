@@ -146,7 +146,7 @@ template <class T>
 void deleteBinaryTree(BinaryNode <T> *& pNode)
 {
 	// anchor
-   if (pNode == NULL) 
+   if (pNode == NULL)
       return;
 
    // delete from left to right
